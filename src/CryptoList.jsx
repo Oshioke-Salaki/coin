@@ -18,8 +18,8 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>$67,291</h2>
-          <h2>-0.10%</h2>
+          <h2>$22,730</h2>
+          <h2>-0.14%</h2>
         </div>
       </div>
       <div className="crypto">
@@ -31,8 +31,8 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>$45,456</h2>
-          <h2>-0.40%</h2>
+          <h2>$1,564.44</h2>
+          <h2>-0.64%</h2>
         </div>
       </div>
       <div className="crypto">
@@ -44,8 +44,8 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>$146</h2>
-          <h2>-2.80%</h2>
+          <h2>$0.3316</h2>
+          <h2>-1.92%</h2>
         </div>
       </div>
       <div className="crypto">
@@ -57,8 +57,8 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>$140,343</h2>
-          <h2>-0.20%</h2>
+          <h2>$20.7</h2>
+          <h2>-2.31%</h2>
         </div>
       </div>
       <div className="crypto">

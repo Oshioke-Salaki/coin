@@ -3,6 +3,7 @@ import btc from './assets/btc.png';
 import ada from './assets/ada.png';
 import eth from './assets/eth.png';
 import sol from './assets/sol.png';
+import ae from './assets/ae.jpg';
 import './CryptoList.css';
 
 export default function CryptoList() {
@@ -50,6 +51,19 @@ export default function CryptoList() {
       <div className="crypto">
         <div className="cryptoLeft">
           <img src={sol} alt="" />
+          <div className="cryptoName">
+            <h2>Solana</h2>
+            <h2>SOL</h2>
+          </div>
+        </div>
+        <div className="cryptoRight">
+          <h2>NGN 142.569</h2>
+          <h2>-0.20%</h2>
+        </div>
+      </div>
+      <div className="crypto">
+        <div className="cryptoLeft">
+          <img src={ae} alt="" />
           <div className="cryptoName">
             <h2>Solana</h2>
             <h2>SOL</h2>

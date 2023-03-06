@@ -1,4 +1,5 @@
 import './App.css';
+import CreatePort from './CreatePort';
 import CryptoList from './CryptoList';
 import Earning from './Earning';
 import Hero from './Hero';
@@ -11,6 +12,7 @@ function App() {
       <Hero />
       <CryptoList />
       <Earning />
+      <CreatePort />
     </div>
   );
 }

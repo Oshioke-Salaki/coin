@@ -12,8 +12,8 @@ export default function Hero() {
         <br /> portfolio
       </h1>
       <p>
-        Coinbase is the easiest place to buy and sell cryptocurrency.
-        <br /> Sign up and get started today.
+        Coinbase is the easiest place to buy and sell cryptocurrency. Sign up
+        and get started today.
       </p>
       <input type="text" placeholder="Email Address" />
       <button>Get Started</button>

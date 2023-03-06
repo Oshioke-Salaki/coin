@@ -6,7 +6,7 @@
     border-bottom: 1px solid #dee1e7;
     margin-bottom: 8rem;
     /* display: fixed; */
-    position: fixed;
+    /* position: fixed; */
     top: 0;
 }
 
@@ -37,9 +37,9 @@
 }
 
 .menu-wrap {
-    position: fixed;
-    top: 1rem;
-    right: 6rem;
+    /* position: fixed; */
+    /* top: 1rem; */
+    /* right: 6rem; */
     z-index: 1;
 }
 

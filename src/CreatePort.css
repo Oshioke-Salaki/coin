@@ -23,7 +23,25 @@
     font-weight: 400;
 }
 
-.createPort img {
+.illus {
     width: 100%;
     margin-bottom: 3rem;
+}
+
+.propImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+
+.property h3 {
+    font-size: 2rem;
+    line-height: 2.3rem;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
 }

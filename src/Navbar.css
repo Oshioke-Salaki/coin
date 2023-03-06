@@ -37,9 +37,9 @@
 }
 
 .menu-wrap {
-    /* position: fixed; */
-    /* top: 1rem; */
-    /* right: 6rem; */
+    position: fixed;
+    top: 1rem;
+    right: 6rem;
     z-index: 1;
 }
 

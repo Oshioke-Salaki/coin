@@ -1,3 +1,7 @@
+.cryptoList {
+    margin-bottom: 3.5rem;
+}
+
 .crypto {
     width: 100%;
     display: flex;

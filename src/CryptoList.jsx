@@ -8,7 +8,7 @@ import './CryptoList.css';
 
 export default function CryptoList() {
   return (
-    <div>
+    <div className="cryptoList">
       <div className="crypto">
         <div className="cryptoLeft">
           <img src={btc} alt="" />

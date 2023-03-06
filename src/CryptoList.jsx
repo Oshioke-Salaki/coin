@@ -18,7 +18,7 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>NGN 10,291,923.92</h2>
+          <h2>$67,291</h2>
           <h2>-0.10%</h2>
         </div>
       </div>
@@ -31,7 +31,7 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>NGN 783,923.92</h2>
+          <h2>$45,456</h2>
           <h2>-0.40%</h2>
         </div>
       </div>
@@ -44,7 +44,7 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>NGN 146</h2>
+          <h2>$146</h2>
           <h2>-2.80%</h2>
         </div>
       </div>
@@ -57,7 +57,7 @@ export default function CryptoList() {
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>NGN 142.569</h2>
+          <h2>$140,343</h2>
           <h2>-0.20%</h2>
         </div>
       </div>
@@ -65,13 +65,13 @@ export default function CryptoList() {
         <div className="cryptoLeft">
           <img src={ae} alt="" />
           <div className="cryptoName">
-            <h2>Solana</h2>
-            <h2>SOL</h2>
+            <h2>AE Cash</h2>
+            <h2>AE</h2>
           </div>
         </div>
         <div className="cryptoRight">
-          <h2>NGN 142.569</h2>
-          <h2>-0.20%</h2>
+          <h2>$9.78</h2>
+          <h2>+0.10%</h2>
         </div>
       </div>
     </div>

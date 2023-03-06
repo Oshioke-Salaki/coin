@@ -1,0 +1,38 @@
+.crypto {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #dee1e7;
+    padding: 1rem 2rem;
+}
+
+.cryptoLeft {
+    display: flex;
+    align-items: center;
+}
+
+.cryptoLeft img {
+    width: 5rem;
+    margin-right: 1.5rem;
+}
+
+.crypto h2 {
+    font-size: 1.6rem;
+    line-height: 1.84rem;
+    font-weight: 400;
+}
+
+.cryptoRight {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.cryptoName h2:nth-child(2) {
+    color: #5b616e;
+}
+
+.cryptoRight h2:nth-child(2) {
+    color: #cf4393;
+}

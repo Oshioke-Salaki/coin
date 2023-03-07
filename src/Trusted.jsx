@@ -21,6 +21,26 @@ export default function Trusted() {
           <br /> secure{'>'}
         </a>
       </div>
+      <div className="secure">
+        <h3>Protected by Insurance</h3>
+        <h4>
+          Coinbase maintains crypto insurance and all USD cash balances are
+          covered by FDIC insurance, up to a maximum of $250,000.
+        </h4>
+        <a href="#">
+          Learn how your crypto is covered by our insurance policy{'>'}
+        </a>
+      </div>
+      <div className="secure">
+        <h3>Industry best practices</h3>
+        <h4>
+          Coinbase supports a variety of the most popular digital currencies.
+        </h4>
+        <a href="#">
+          Learn how we implement industry best practices for account security
+          {'>'}
+        </a>
+      </div>
       <div className="cryptStats">
         <div className="cryptStat">
           <h5>$145B</h5>

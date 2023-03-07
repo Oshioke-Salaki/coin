@@ -17,8 +17,7 @@ export default function Trusted() {
           <br /> assets in secure offline storage.
         </h4>
         <a href="#">
-          Learn how Coinbase keeps your funds safe and
-          <br /> secure{' >'}
+          Learn how Coinbase keeps your funds safe and secure{' >'}
         </a>
       </div>
       <div className="secure">

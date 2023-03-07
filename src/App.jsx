@@ -2,6 +2,7 @@ import './App.css';
 import CreatePort from './CreatePort';
 import CryptoList from './CryptoList';
 import Earning from './Earning';
+import Footer from './Footer';
 import GetStarted from './GetStarted';
 import Hero from './Hero';
 import Navbar from './Navbar';
@@ -17,6 +18,7 @@ function App() {
       <CreatePort />
       <Trusted />
       <GetStarted />
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,37 @@
+.footer {
+  padding: 0 2rem;
+  margin-top: 8rem;
+}
+
+.footer h1 {
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 4rem;
+  color: rgb(0, 82, 255);
+  margin-bottom: 3rem;
+}
+
+.footer h2 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.34rem;
+  color: #7b8ea1;
+  /* margin-bottom: 4.5rem; */
+}
+
+.footer h3 {
+  font-size: 1.8rem;
+  line-height: 2.4rem;
+  font-weight: 600;
+  color: rgb(10, 11, 13);
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+}
+
+.footer h4 {
+  font-size: 1.8rem;
+  line-height: 2.4rem;
+  color: #7b8ea1;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}

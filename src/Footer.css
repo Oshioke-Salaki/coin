@@ -24,6 +24,17 @@
   margin-bottom: 1rem;
 }
 
+.language select,
+.language select:focus {
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  font-weight: 400;
+  color: black;
+}
+
 .footer h2 {
   font-size: 1.8rem;
   font-weight: 400;

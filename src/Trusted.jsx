@@ -18,7 +18,7 @@ export default function Trusted() {
         </h4>
         <a href="#">
           Learn how Coinbase keeps your funds safe and
-          <br /> secure{'>'}
+          <br /> secure{' >'}
         </a>
       </div>
       <div className="secure">
@@ -28,7 +28,7 @@ export default function Trusted() {
           covered by FDIC insurance, up to a maximum of $250,000.
         </h4>
         <a href="#">
-          Learn how your crypto is covered by our insurance policy{'>'}
+          Learn how your crypto is covered by our insurance policy{' >'}
         </a>
       </div>
       <div className="secure">
@@ -38,7 +38,7 @@ export default function Trusted() {
         </h4>
         <a href="#">
           Learn how we implement industry best practices for account security
-          {'>'}
+          {' >'}
         </a>
       </div>
       <div className="cryptStats">

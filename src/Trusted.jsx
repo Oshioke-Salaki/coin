@@ -20,19 +20,19 @@ export default function Trusted() {
           Learn how Coinbase keeps your funds safe and
           <br /> secure{'>'}
         </a>
-        <div className="cryptStats">
-          <div className="cryptStat">
-            <h5>$145B</h5>
-            <h6>Quarterly volume traded</h6>
-          </div>
-          <div className="cryptStat">
-            <h5>100+</h5>
-            <h6>Countries supported</h6>
-          </div>
-          <div className="cryptStat">
-            <h5>110M+</h5>
-            <h6>Verified users</h6>
-          </div>
+      </div>
+      <div className="cryptStats">
+        <div className="cryptStat">
+          <h5>$145B</h5>
+          <h6>Quarterly volume traded</h6>
+        </div>
+        <div className="cryptStat">
+          <h5>100+</h5>
+          <h6>Countries supported</h6>
+        </div>
+        <div className="cryptStat">
+          <h5>110M+</h5>
+          <h6>Verified users</h6>
         </div>
       </div>
     </div>

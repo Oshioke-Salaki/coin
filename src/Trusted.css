@@ -60,6 +60,7 @@
 }
 
 .cryptStats {
+  background-color: rgb(0, 82, 255);
   padding: 3rem -2rem;
   display: flex;
   flex-direction: column;

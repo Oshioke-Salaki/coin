@@ -1,11 +1,11 @@
 import React from 'react';
 import './Hero.css';
-
+import eth from './assets/eth.png';
 export default function Hero() {
   return (
     <div className="hero">
       <a href="#" className="jumpStartLink">
-        Jump Start your portfolio
+        <img src={eth} alt="" /> Jump Start your portfolio
       </a>
       <h1>
         Jump start your crypto

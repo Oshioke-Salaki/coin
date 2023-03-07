@@ -1,64 +1,69 @@
 .hero {
-    padding-left: 2rem;
-    padding-right: 2rem;
-    margin-bottom: 9rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-bottom: 9rem;
 }
 
 .jumpStartLink {
-    font-size: 1.6rem;
-    font-weight: 500;
-    line-height: 1.84rem;
-    color: var(--primary-color);
-    /* margin-bottom: 4rem; */
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.84rem;
+  color: var(--primary-color);
+  /* margin-bottom: 4rem; */
+}
+
+.jumpStartLink img {
+  width: 2rem;
+  margin-right: 1.3rem;
 }
 
 .hero h1 {
-    font-size: 3rem;
-    line-height: 4rem;
-    color: black;
-    margin-bottom: 1.5rem;
-    margin-top: 2rem;
+  font-size: 3rem;
+  line-height: 4rem;
+  color: black;
+  margin-bottom: 1.5rem;
+  margin-top: 2rem;
 }
 
 .hero p {
-    color: var(--light-black);
-    font-size: 1.6rem;
-    line-height: 2.4rem;
-    margin-bottom: 1.5rem;
+  color: var(--light-black);
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  margin-bottom: 1.5rem;
 }
 
 .hero input {
-    border: 1px solid #dee1e7;
-    outline: none;
-    border-radius: 4px;
-    font-size: 1.6rem;
-    line-height: 2rem;
-    font-weight: 400;
+  border: 1px solid #dee1e7;
+  outline: none;
+  border-radius: 4px;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  font-weight: 400;
 }
 
 .hero input,
 .hero button {
-    display: block;
-    width: 100%;
-    margin-bottom: 1rem;
-    padding: 1.8rem 2rem;
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 1.8rem 2rem;
 }
 
 .hero input::placeholder {
-    font-size: 1.6rem;
-    line-height: 2rem;
-    font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  font-weight: 400;
 }
 
 .hero button,
 .hero button:focus {
-    background-color: var(--primary-color);
-    border: none;
-    outline: none;
-    font-size: 1.6rem;
-    line-height: 2rem;
-    font-weight: 700;
-    color: white;
-    border-radius: 5px;
-    padding: 2.3rem 0;
+  background-color: var(--primary-color);
+  border: none;
+  outline: none;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  font-weight: 700;
+  color: white;
+  border-radius: 5px;
+  padding: 2.3rem 0;
 }

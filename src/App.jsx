@@ -4,6 +4,7 @@ import CryptoList from './CryptoList';
 import Earning from './Earning';
 import Hero from './Hero';
 import Navbar from './Navbar';
+import Trusted from './Trusted';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <CryptoList />
       <Earning />
       <CreatePort />
+      <Trusted />
     </div>
   );
 }

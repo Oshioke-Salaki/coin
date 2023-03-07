@@ -1,6 +1,8 @@
 .footer {
   padding: 0 2rem;
   margin-top: 8rem;
+  width: 100%;
+  padding-bottom: 4rem;
 }
 
 .footer h1 {
@@ -9,6 +11,16 @@
   line-height: 4rem;
   color: rgb(0, 82, 255);
   margin-bottom: 3rem;
+}
+
+.language,
+.language:focus {
+  padding: 1rem 0.4rem;
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #f4f6f7;
+  outline: none;
 }
 
 .footer h2 {

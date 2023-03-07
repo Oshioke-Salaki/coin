@@ -9,12 +9,14 @@
   font-weight: 500;
   line-height: 1.84rem;
   color: var(--primary-color);
+  display: flex;
+  align-items: center;
   /* margin-bottom: 4rem; */
 }
 
 .jumpStartLink img {
   width: 2rem;
-  margin-right: 1.3rem;
+  margin-right: 0.5rem;
 }
 
 .hero h1 {

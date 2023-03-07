@@ -63,14 +63,14 @@
 
 .cryptStats {
   background-color: rgb(0, 82, 255);
-  padding: 3rem 0;
+  padding: 5rem 0;
   margin-left: -2rem;
   margin-right: -2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: 2.5rem;
+  gap: 4rem;
   margin-bottom: 3.5rem;
 }
 

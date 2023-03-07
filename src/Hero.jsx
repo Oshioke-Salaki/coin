@@ -8,8 +8,8 @@ export default function Hero() {
         <img src={eth} alt="" /> Jump Start your portfolio -{'>'}
       </a>
       <h1>
-        Jump start your crypto
-        <br /> portfolio
+        Jump start your
+        <br /> crypto portfolio
       </h1>
       <p>
         Bittrue is the easiest place to buy and sell cryptocurrency. Sign up and

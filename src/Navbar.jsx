@@ -7,7 +7,9 @@ export default function Navbar() {
     <div className="navbar">
       <h1>bittrue</h1>
       <div className="navbarRight">
-        <a href="#">Get Started</a>
+        <a href="#" className="getSartedBtnn">
+          Get Started
+        </a>
         <div class="menu-wrap">
           <input type="checkbox" class="toggler" />
           <div class="hamburger">

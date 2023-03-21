@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 10rem;
 }
 
 .createPort h1 {
@@ -23,6 +24,10 @@
     font-weight: 400;
 }
 
+.createPort h2 span {
+    color: rgb(6, 103, 208);
+}
+
 .illus {
     width: 100%;
     margin-bottom: 3rem;
@@ -32,9 +37,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 5rem;
-    height: 5rem;
+    padding: 2rem;
+    /* background-color: red; */
     border-radius: 50%;
+    box-shadow: 3.4px 6.7px 6.7px hsl(0deg 0% 0% / 0.4);
+}
+
+.property {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1.5rem;
 }
 
 .property h3 {

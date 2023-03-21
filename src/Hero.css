@@ -63,7 +63,7 @@
 
 .hero button,
 .hero button:focus {
-    background-color: var(--primary-color);
+    background-color: #ff1919;
     border: none;
     outline: none;
     font-size: 1.6rem;

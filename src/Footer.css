@@ -1,62 +1,62 @@
 .footer {
-  padding: 0 2rem;
-  margin-top: 8rem;
-  width: 100%;
-  padding-bottom: 4rem;
+    padding: 0 2rem;
+    margin-top: 8rem;
+    width: 100%;
+    padding-bottom: 4rem;
 }
 
 .footer h1 {
-  font-size: 3.4rem;
-  font-weight: 700;
-  line-height: 4rem;
-  color: rgb(0, 82, 255);
-  margin-bottom: 3rem;
+    font-size: 3.4rem;
+    font-weight: 700;
+    line-height: 4rem;
+    color: #ff1919;
+    margin-bottom: 3rem;
 }
 
 .language,
 .language:focus {
-  padding: 1rem 0.4rem;
-  width: 60%;
-  display: flex;
-  justify-content: space-between;
-  border: 1px solid #f4f6f7;
-  outline: none;
-  margin-bottom: 1rem;
+    padding: 1rem 0.4rem;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #f4f6f7;
+    outline: none;
+    margin-bottom: 1rem;
 }
 
 .language select,
 .language select:focus {
-  width: 100%;
-  border: none;
-  outline: none;
-  font-size: 1.6rem;
-  line-height: 1.8rem;
-  font-weight: 400;
-  color: black;
-  background-color: white;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+    font-weight: 400;
+    color: black;
+    background-color: white;
 }
 
 .footer h2 {
-  font-size: 1.8rem;
-  font-weight: 400;
-  line-height: 2.34rem;
-  color: #7b8ea1;
-  /* margin-bottom: 4.5rem; */
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 2.34rem;
+    color: #7b8ea1;
+    /* margin-bottom: 4.5rem; */
 }
 
 .footer h3 {
-  font-size: 1.8rem;
-  line-height: 2.4rem;
-  font-weight: 600;
-  color: rgb(10, 11, 13);
-  margin-top: 4rem;
-  margin-bottom: 1rem;
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    font-weight: 600;
+    color: rgb(10, 11, 13);
+    margin-top: 4rem;
+    margin-bottom: 1rem;
 }
 
 .footer h4 {
-  font-size: 1.8rem;
-  line-height: 2.4rem;
-  color: #7b8ea1;
-  margin-bottom: 1rem;
-  font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+    color: #7b8ea1;
+    margin-bottom: 1rem;
+    font-weight: 400;
 }

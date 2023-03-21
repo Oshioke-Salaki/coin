@@ -44,7 +44,8 @@
     align-items: center;
     padding: 4rem 3rem;
     text-align: center;
-    background-color: #ff1919;
+    /* background-color: #ff1919; */
+    background-color: rgba(250, 36, 36, 0.795);
 }
 
 .discover h4 {
@@ -63,7 +64,7 @@
 
 .discover a {
     padding: 1.4rem 1.6rem;
-    background-color: #0271f3;
+    background-color: #ff1919;
     display: flex;
     justify-content: center;
     align-items: center;
